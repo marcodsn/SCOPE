@@ -233,7 +233,7 @@
 
   .divider {
     width: calc(100% + 3rem); /* Adjust based on Card's padding */
-    margin: 1rem -1.5rem;
+    margin: 1.5rem -1.5rem;
     border: none;
     border-top: 1px solid #ddd;
   }
